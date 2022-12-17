@@ -12,7 +12,7 @@ local Modules = {
 		["Settings"] = 10973695126
 	},
 	Remotes = {
-		["Mob_Hit"] = "hNclmbyewoxw/jftCjsKex"
+		["Mob_Hit"] = "dgSHboicbwtkcaWtqSf/zarwl"
 	},
 	scriptSettings = {
 		blocksPerSecond = 22
