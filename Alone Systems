@@ -15,7 +15,7 @@ local Modules = {
 		["Mob_Hit"] = "dgSHboicbwtkcaWtqSf/zarwl"
 	},
 	scriptSettings = {
-		blocksPerSecond = 22
+		blocksPerSecond = 20
 	}
 }
 
