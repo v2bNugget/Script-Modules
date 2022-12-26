@@ -14,7 +14,7 @@ local Modules = {
 	Remotes = {
 		["Mob_Hit"] = "ugdLur/erJNtpgBukazpne",
 		["Fish_Blob"] = "wrnlwRtatpoUgelmhejfmruMq/drMhuterusrkdgswogAnpvVmfosd",
-		["Fish_Collect"] = "wrnlwRtatpoUgelmhejfmruMq/rxfrEGndiqketqOkNveanqecjgjg"
+		["Fish_Collect"] = "wrnlwRtatpoUgelmhejfmruMq/rxfrEGndiqketqOkNveanqecjgjg",
 		["Catching"] = "LxMbPxbpehnTfxfrbtfdvjubku/oxmcejrqrIRahfwJanPaoNjzuEovahjrVhfpjoi"
 	},
 	scriptSettings = {
