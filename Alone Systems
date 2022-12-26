@@ -15,7 +15,7 @@ local Modules = {
 		["Mob_Hit"] = "ugdLur/erJNtpgBukazpne",
 		["Fish_Blob"] = "wrnlwRtatpoUgelmhejfmruMq/drMhuterusrkdgswogAnpvVmfosd",
 		["Fish_Collect"] = "wrnlwRtatpoUgelmhejfmruMq/rxfrEGndiqketqOkNveanqecjgjg"
-		["Catching"] = "wrnlwRtatpoUgelmhejfmruMq/rxfrEGndiqketqOkNveanqecjgjg"
+		["Catching"] = "LxMbPxbpehnTfxfrbtfdvjubku/oxmcejrqrIRahfwJanPaoNjzuEovahjrVhfpjoi"
 	},
 	scriptSettings = {
 		blocksPerSecond = 28
