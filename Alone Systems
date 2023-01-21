@@ -12,10 +12,10 @@ local Modules = {
 		["Settings"] = 10973695126
 	},
 	Remotes = {
-		["Mob_Hit"] = "bwskrJam/jeelncovrFcqjyQnVahgtpcqgjjQbZQR",
-		["Fish_Blob"] = "wmwsiNopsyahd/mkgvf",
-		["Fish_Collect"] = "wmwsiNopsyahd/zyJrjfsaeAulzdhuOFlKjtoyhxziwlsgeqmyrmiL",
-		["Catching"] = "CffhpjillnrdemxzlsdcQwpmlbEnudKqymaPqyGEkdtSc/enpidyitccoecqncIepkd",
+		["Mob_Hit"] = "ojEuoyxqmjaly/YwgxrqlaZgmqcetXtnCdubawg",
+		["Fish_Blob"] = "ivxuwehrgcHcyvwgjn/iylzqytqpnLewEfk",
+		["Fish_Collect"] = "ivxuwehrgcHcyvwgjn/oTwNihrxwrukgmbhk",
+		["Catching"] = "fvzMzdikmlyMkideVihedQLQebwDrkwlonnzfi/cvjncpqjxmmlinqFu",
 	},
 	scriptSettings = {
 		blocksPerSecond = 28
