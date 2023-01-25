@@ -12,7 +12,7 @@ local Modules = {
 		["Settings"] = 10973695126
 	},
 	Remotes = {
-		["Mob_Hit"] = "ojEuoyxqmjaly/YwgxrqlaZgmqcetXtnCdubawg",
+		["Mob_Hit"] = "cxdvVzgmb/czNjkkivRyyoow",
 		["Fish_Blob"] = "ivxuwehrgcHcyvwgjn/iylzqytqpnLewEfk",
 		["Fish_Collect"] = "ivxuwehrgcHcyvwgjn/oTwNihrxwrukgmbhk",
 		["Catching"] = "fvzMzdikmlyMkideVihedQLQebwDrkwlonnzfi/cvjncpqjxmmlinqFu",
