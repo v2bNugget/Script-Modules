@@ -18,7 +18,7 @@ local Modules = {
 		["Catching"] = "fvzMzdikmlyMkideVihedQLQebwDrkwlonnzfi/cvjncpqjxmmlinqFu",
 	},
 	scriptSettings = {
-		blocksPerSecond = 26
+		blocksPerSecond = 22
 	}
 }
 
